@@ -1,0 +1,5 @@
+Professor, esse projeto foi construído utilizando o Code Igniter.
+- Primeiro restaure o banco de dados.
+- Configure o arquivo database.php com as suas configurações do mysql.
+- Crie um Vhost apontando para a pasra do projeto e configure a url que desejar em config.php ou então se estiver no Windows deve funcionar apenas colocando o projeto na pasta www e acessando localhost/siga.
+
